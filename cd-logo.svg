@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="197px" height="197px" viewBox="0 0 197 197" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>prototype 1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="prototype-1" transform="translate(98.500000, 98.500000) rotate(45.000000) translate(-98.500000, -98.500000) translate(-41.000000, -41.000000)" fill="#D8D8D8" stroke="#979797" stroke-width="13">
+            <path d="M139.5,40.0355493 L69.1680124,69.1680124 L40.0355493,139.5 L69.1680124,209.831988 L139.5,238.964451 L209.831988,209.831988 L238.964451,139.5 L209.831988,69.1680124 L139.5,40.0355493 Z" id="Polygon" transform="translate(139.500000, 139.500000) rotate(-22.500000) translate(-139.500000, -139.500000) "></path>
+            <path d="M141.571205,56.1626629 L85.3813531,191.816966 L138.05343,213.634454 L194.243282,190.359856 L217.517881,134.170004 L194.243282,77.9801517 L141.571205,56.1626629 Z" id="Polygon" transform="translate(150.721062, 134.170004) rotate(-22.500000) translate(-150.721062, -134.170004) "></path>
+            <path d="M159.40289,190.327854 L187.805219,118.63412 L180.261131,100.421082 L139.627628,83.5901337 L98.9941257,100.421082 L82.1631778,141.054584 L98.9941257,181.688087 L139.627628,198.519035 L159.40289,190.327854 Z" id="Path" transform="translate(134.972938, 141.054584) rotate(-22.500000) translate(-134.972938, -141.054584) "></path>
+        </g>
+    </g>
+</svg>
